@@ -1,0 +1,28 @@
+public class WeekOneVariblesWork {
+
+	public static void main(String[] args) {
+		
+		int availablePlaneSeats = 6;
+		
+		double costOfGroceries = 23.64;
+				
+		char middleInitial = 'A';
+		
+		boolean itsOutside = false;
+		
+		String customerFirstName = "Ashley";
+		
+		String streetAddress = "1234 S Happy Ln";
+ 
+		
+		
+		System.out.println(availablePlaneSeats);
+		System.out.println(costOfGroceries);
+		System.out.println(middleInitial);
+		System.out.println(itsOutside);
+		System.out.println(customerFirstName);
+		System.out.println(streetAddress);
+
+	}
+
+}
